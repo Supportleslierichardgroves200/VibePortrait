@@ -107,7 +107,7 @@ $skill-installer install https://github.com/dadwadw233/VibePortrait/tree/main/sk
 | 🧬 | **MBTI Type** | 4-axis mapping with per-type color theme / 四轴映射 + 16 种独立配色 |
 | 📊 | **Radar** | Depth · Breadth · Communication · Decision · Collaboration · Creativity |
 | 🏆 | **Rating** | `Legendary 夯爆了` → `Elite 夯` → `Above Avg 人上人` → `NPC` → `Below Avg 拉` → `Inactive 拉完了` |
-| 🎭 | **Famous Match** | 30 figures: Torvalds · Carmack · 诸葛亮 · Feynman · Marie Curie · 王阳明 ... |
+| 🎭 | **Famous Match** | 3 dimensions: Technical Spirit · Strategic Mind · Communication Soul — AI picks from all of human history |
 | 💬 | **Communication** | Language split, directness, keywords / 语言分布、直接度、关键词 |
 | 🗺️ | **Tech Map** | Domain breakdown + tool badges / 领域分布 + 工具徽章 |
 | ⏰ | **Work Rhythm** | 24h heatmap + session patterns / 24h 热力图 + 会话模式 |

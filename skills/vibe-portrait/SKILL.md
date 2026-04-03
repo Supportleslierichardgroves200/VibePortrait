@@ -158,7 +158,7 @@ Always include strength highlights AND growth areas, even for top-tier ratings.
 ### 3.3 Famous Person Match
 Read: → `references/famous-matching.md`
 
-Match against ~30 figures spanning technologists, scientists, philosophers, and creators — across eras and cultures. Trait overlap is computed across communication style, technical/intellectual focus, decision pattern, ambition level, and collaboration approach.
+Match the user across 3 independent dimensions (Technical Spirit / Strategic Mind / Communication Soul), each picking a different historical or contemporary figure. No predefined list — the AI uses its own knowledge. See reference file for rules and anti-bias constraints.
 
 ## Step 4: Generate the portrait HTML
 
