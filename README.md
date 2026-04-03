@@ -181,9 +181,15 @@ First run creates the repo. Subsequent runs on any machine pull → merge → pu
 ## Privacy / 隐私
 
 - Only reads local `~/.claude/history.jsonl` — never sends data externally
-- API keys, tokens, passwords auto-redacted from all outputs
-- Portrait repo is private by default
-- You control what to share
+- API keys, tokens, passwords, file paths, personal info auto-redacted from all outputs
+- Persona skills contain **zero raw chat messages** — only abstracted personality descriptions
+- Portrait repo is private by default — you control what to share
+
+> 🛡️ **Want real-time protection?** Try [**VibeGuard**](https://github.com/dadwadw233/VibeGuard) — a security plugin for Claude Code that detects secrets, blocks dangerous commands, and logs all tool actions. Pairs naturally with VibePortrait: VibeGuard protects your code in real-time, VibePortrait ensures your exported persona stays clean.
+>
+> ```bash
+> npm install -g @embodot/vibeguard && vibeguard install
+> ```
 
 ---
 
