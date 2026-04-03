@@ -7,8 +7,8 @@
     "email": "dadwadw233@users.noreply.github.com",
     "url": "https://github.com/dadwadw233"
   },
-  "homepage": "https://github.com/dadwadw233/vibe-portrait",
-  "repository": "https://github.com/dadwadw233/vibe-portrait",
+  "homepage": "https://github.com/dadwadw233/VibePortrait",
+  "repository": "https://github.com/dadwadw233/VibePortrait",
   "license": "MIT",
   "keywords": [
     "personality",
@@ -29,7 +29,7 @@
     "developerName": "dadwadw233",
     "category": "Productivity",
     "capabilities": ["Read", "Write"],
-    "websiteURL": "https://github.com/dadwadw233/vibe-portrait",
+    "websiteURL": "https://github.com/dadwadw233/VibePortrait",
     "defaultPrompt": [
       "Use $vibe-portrait to analyze my conversation history and generate my developer personality portrait.",
       "Use $vibe-portrait to create a personality profile based on how I interact with AI."
