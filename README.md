@@ -81,9 +81,18 @@ VibePortrait 是一个 **Claude Code / Codex 技能**，它读取你与 AI 的�
 
 ### Claude Code — Plugin Marketplace
 
+Step 1: Add the marketplace (run this first)
 ```
 /plugin marketplace add dadwadw233/VibePortrait
+```
+
+Step 2: Install the plugin
+```
 /plugin install vibe-portrait@vibe-portrait
+```
+
+Step 3: Run it
+```
 /vibe-portrait:vibe-portrait
 ```
 
