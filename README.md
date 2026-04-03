@@ -261,21 +261,15 @@ Requirements / 需要: `gh` CLI installed and authenticated / 已安装并登录
 - [x] One-click image export / 一键导出图片
 - [x] Materialist rating rubric / 唯物主义评分体系
 - [ ] Community platform — share & download persona skills / 社区平台：分享与下载人格 skill
-- [ ] Skill poisoning detection / 上传 skill 投毒检测
-- [ ] Public portrait gallery / 公开画像展廊
-
----
-
-## 📄 License
-
-[MIT](LICENSE) — use it however you want.
 
 ---
 
 <div align="center">
 
-**Built for developers who want to know themselves better. / 为想要更好地认识自己的开发者而建。**
+**Every great developer evolves. The first step is seeing clearly where you stand.**
 
-Made with ❤️ and a lot of conversation history.
+**每一次对话都是你的进化轨迹。看见自己，分享自己，成为更强的自己。**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
