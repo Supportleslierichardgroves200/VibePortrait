@@ -44,11 +44,18 @@ In **Full mode**, read all lines from `history.jsonl` (and any imported files). 
 
 ### 1a: Local history
 
-Find the user's conversation history. Check these locations in order:
+**Always read from ALL available sources regardless of which terminal the user is running.** A developer's personality is shaped by all their AI interactions, not just one tool.
 
-1. `~/.claude/history.jsonl` — primary source. Each line is a JSON object with a `display` field containing the user's message text.
-2. `~/.claude/projects/` — subdirectories may contain additional `.jsonl` transcript files.
-3. If on Codex, check `~/.codex/history/` or ask the user where their history is stored.
+Check and read from every source that exists:
+
+| Source | Path | Message field |
+|--------|------|---------------|
+| Claude Code history | `~/.claude/history.jsonl` | `display` |
+| Claude Code projects | `~/.claude/projects/**/*.jsonl` | `display` |
+| Codex history | `~/.codex/history.jsonl` | `text` (also has `ts` unix timestamp) |
+| Codex sessions | `~/.codex/sessions/**/*.jsonl` | filter `type=response_item` + `payload.role=user` → `payload.content[0].text` |
+
+Merge all messages into one pool before sampling. Use `ts` timestamps (Codex) for chronological sorting when available.
 
 ### 1b: Multi-machine sync via Git repo
 
