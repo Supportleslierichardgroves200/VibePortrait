@@ -43,7 +43,7 @@ cp -R VibePortrait/skills/vibe-portrait ~/.claude/skills/vibe-portrait
 
 <br>
 
-<img src="assets/social-preview.png" alt="VibePortrait Preview" width="100%">
+<img src="assets/portrait-preview.png" alt="VibePortrait Preview" width="100%">
 
 *The portrait includes: MBTI type with per-type color theme · 6-axis capability radar · developer rating (夯爆了→拉完了) · 3-dimension famous match · communication style analysis · tech domain map · work rhythm heatmap · and more.*
 
